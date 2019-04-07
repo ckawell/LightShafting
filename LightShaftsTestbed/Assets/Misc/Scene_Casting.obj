@@ -1,0 +1,12 @@
+# Blender v2.80 (sub 43) OBJ File: ''
+# www.blender.org
+mtllib Scene_Casting.mtl
+o Cube
+v 0.000000 1.300000 2.300000
+v 0.000000 -1.442659 -2.300000
+v 0.000000 1.300000 -2.300000
+v 0.000000 -1.442659 2.300000
+l 3 2
+l 1 3
+l 2 4
+l 1 4
